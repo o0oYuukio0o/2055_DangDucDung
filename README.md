@@ -7,10 +7,12 @@
     <tr>
         <th>Họ tên</th>
         <th>MSSV</th>
+        <th>Lớp</th>
     </tr>
     <tr>
         <td>Đặng Đức Dũng</td>
         <td>2011062055</td>
+        <td>20DTHB3</td>
     </tr>
 </table>
 
